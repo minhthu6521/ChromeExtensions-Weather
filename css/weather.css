@@ -1,0 +1,20 @@
+
+body {
+        font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+        font-size: 100%;
+        width:280px;
+        height: 280px;
+}
+
+.resultDiv{
+    width:280px;
+    height:70px;
+}
+
+.ui-menu .ui-menu-item a,.ui-menu .ui-menu-item a.ui-state-hover, .ui-menu .ui-menu-item a.ui-state-active {
+	font-weight: normal;
+	margin: -1px;
+	text-align:left;
+	font-size:14px;
+	}
+.ui-autocomplete-loading { background: white right center no-repeat; }
